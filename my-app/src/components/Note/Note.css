@@ -1,0 +1,85 @@
+.EditableNote
+{
+    display:flex;
+    flex-direction: column;
+    height:100vh;
+    flex:1;
+    background-color: #E9EDEF;
+}
+
+.EditableNote_Top
+{
+  height:80px;
+  display:flex;
+  justify-content: space-between;
+  width:100%;
+  padding: 16px 20px;
+  box-sizing: border-box;
+  border-bottom: 1px solid #E6E6E6;
+
+}
+
+.EditableNote_Top_Date
+{
+  font-family:'Lato', sans-serif; 
+  font-size:15px;
+  opacity: 0.65;
+}
+
+.EditableNote_Top_Buttons
+{
+    display:flex;
+}
+
+.action_buttons
+{
+    color:black;
+    opacity:0.5;
+    /* margin:0 20px; */
+    margin: 0 10px;
+}
+
+.action-btn
+{
+    color:black;
+    opacity:0.5;
+    /* margin:0 20px; */
+    margin: 0 10px;
+}
+
+.action_buttons:hover
+{
+   cursor: pointer;
+}
+
+.EditableNote_Middle
+{
+    flex:1;
+    padding:18px;
+    border-top: 3px solid #EAF5FA;
+}
+
+.EditableNote_Middle_Top input
+{
+   font-size:23px;
+   border:none;
+   width:100%;
+   opacity:0.7;
+   outline:none;
+   margin-right: 0px;
+   background-color:#E9EDEF ;
+}
+
+.EditableNote_Middle_Top input:hover
+{
+    background-color:#F2F7F9 ;
+}
+
+.EditableNote_Middle_Content textarea
+{
+    width:100%;
+    height:150px;
+    background-color:#F2F7F9 ;
+    margin-top:10px;
+    outline:none;
+}

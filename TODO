@@ -1,0 +1,24 @@
+Aplicație web pentru gestionarea notițelor de curs/seminar
+
+Obiectivul proiectului realizat de echipa ITxperience este acela de a realiza o aplicație web care să permită gestionarea notițelor luate la cursuri și seminarii, asemănătoare StuDocu sau Evernote. 
+Ce ne propunem să implementăm?
+1.	Studentul va putea să iși organizeze materialele în funcție de materiile la care participă;
+2.	Studentul se va loga folosind contul de email instituțional (@stud.ase.ro) pentru a-și gestiona notițele de la curs/seminar;
+3.	Se va dori o platforma care să permită o experiență personală;
+4.	Studentul va putea să:
+a.	Vizualizeze;
+b.	Adăuge;
+c.	Editeze;
+d.	Șteargă notițele de curs pentru o mai bună organizare.
+5.	Studentul va putea adăuga atașamente la notițele de curs și seminar pentru o vizualizare în perspectivă;
+6.	Studentul va avea posibilitatea de a filtra documentele în funcție de:
+a.	Materii;
+b.	Dată;
+c.	Etichete;
+d.	Cuvinte cheie – aceste elemente au ca scop organizarea mai eficentă a resurselor de învățare.
+7.	Studentul va avea posibilitatea de a partaja cu alți colegi notițele personale;
+8.	Studentul va avea posibilitatea de a integra informații venite din alte medii și platforme, pentru a învăța în detaliu și cât mai profund. De exemplu, studentul va putea integra conținut dintr-un videoclip de pe youtube sau lua informații de pe alte site-uri în care se regăsesc materiale de învățare (ex. Scribd, Kindle etc);
+9.	Studentul va beneficia de o platformă cu un design frumos și intuitiv, care să nu producă dificultăți de natură tehnică;
+10.	Studentul, având opțiunea de la punctul 7 – de a partaja informația către alți colegi, are posibilitatea de a organiza grupuri de studiu;
+11.	Studentul va beneficia de o platforma bazată pe o aplicație web cu arhitectură de tip Single Page Application accesibilă în browser - desktop, dispozitive mobile sau tablete;
+12.	Studentul va benefucua de un editor de notițe care să fie ușor de folosit pentru a prelua informațiile în timpul cursului/seminarului. Se va implementa un sistem de markdown pentru a realiza formatarea textului.
